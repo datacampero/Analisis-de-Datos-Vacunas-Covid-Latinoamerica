@@ -1,5 +1,5 @@
 
-# Análisis de Datos Vacunas Covid Latinoamérica
+# 💉 Análisis de Datos Vacunas Covid Latinoamérica
 
 _Acá va un párrafo que describa lo que es el proyecto_
 
