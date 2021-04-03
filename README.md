@@ -1,7 +1,7 @@
 
 # 💉 Análisis de Datos Vacunas Covid Latinoamérica
 
-_Acá va un párrafo que describa lo que es el proyecto_
+_Este proyecto está desarrollado con el objetivo de poder filtrar y visualizar los datos de la vacuna en latinoamerica_
 
 ## Comenzando 🚀
 
